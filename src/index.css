@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+
+body {
+    font-family: "DIN Alternate", sans-serif;
+
+}
+
+
+@tailwind utilities;
